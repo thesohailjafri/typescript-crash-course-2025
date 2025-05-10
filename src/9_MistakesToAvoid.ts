@@ -22,13 +22,5 @@ const numbersOverTyped: number[] = [1, 2, 3]
 // ✅ Better
 const numbers = [1, 2, 3]
 
-// Misunderstanding structural typing
-interface Point {
-  x: number
-  y: number
-}
-//
-// This works!  uses structural typing
-// const point: Point = { x: 10, y: 20, z: 30 }
 
 export {}

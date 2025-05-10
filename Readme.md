@@ -20,5 +20,11 @@ Initialize typescript
 npx tsc --init
 ```
 
+How to compile
+
+```bash
+npx tsc
+```
+
 
 ## Setup Dev Server
